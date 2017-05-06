@@ -24,7 +24,15 @@ a:hover {
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 2em;
-	max-width:200px;
+	max-width:400px;
+}
+
+.newappIcon2 {
+	padding-top: 10%;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 2em;
+	max-width:400px;
 }
 
 h1 {
@@ -62,7 +70,7 @@ h1 {
 table {
 	table-layout: fixed;
 	width: 800px;
-	margin: 0 auto;
+	margin: 3 auto;
 	word-wrap: break-word;
 	padding-top:10%;
 }
@@ -72,6 +80,7 @@ th {
 }
 
 th, td {
+	
 	text-align: left;
 	padding: 2px 20px;
 }
@@ -86,4 +95,3 @@ pre {
 	padding: 0;
 	margin: 0;
 }
-
